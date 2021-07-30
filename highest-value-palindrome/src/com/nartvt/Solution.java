@@ -68,4 +68,10 @@ public class Solution {
         return builder.toString();
         // Write your code here
     }
+
+    public static void main(String[] args) {
+        System.out.println(highestValuePalindrome("3943", 4,1));
+        System.out.println(highestValuePalindrome("092282", 6,3));
+        System.out.println(highestValuePalindrome("0011", 4,1));
+    }
 }
