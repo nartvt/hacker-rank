@@ -6,16 +6,24 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        String s = "He is a very very good boy, isn't he?";
-        String regex = "[ ?,!_@'.]+";
-        String []blanks = s.split(regex);
-        System.out.println(blanks.length);
-        for (String blank:blanks){
+        String s = scan.nextLine();
+        String regex = "[,+?!_@ '.]+";
+        s=s.trim();
+        if(s.length() == 0){
+            System.out.println(0);
+        }else{
+            String []blanks = s.split(regex);
+            System.out.println(blanks.length);
+            if(blanks.length > 0){
 
-                System.out.println(blank);
+                for (String blank:blanks){
 
-            System.out.println();
+                    System.out.println(blank);
+                }
+            }
+
         }
+
         // Write your code here.
         scan.close();
     }
