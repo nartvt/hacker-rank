@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hacker-rank.iml" filepath="$PROJECT_DIR$/hacker-rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anagrams/java-anagrams.iml" filepath="$PROJECT_DIR$/java-anagrams/java-anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" filepath="$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" />
+    </modules>
+  </component>
+</project>
