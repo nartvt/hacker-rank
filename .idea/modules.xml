@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" filepath="$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" filepath="$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid-username-regex/valid-username-regex.iml" filepath="$PROJECT_DIR$/valid-username-regex/valid-username-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-html-tag/validate-html-tag.iml" filepath="$PROJECT_DIR$/validate-html-tag/validate-html-tag.iml" />
     </modules>
   </component>
 </project>
