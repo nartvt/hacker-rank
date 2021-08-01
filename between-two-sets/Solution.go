@@ -20,9 +20,6 @@ func getTotalX(a []int32, b []int32) int32 {
 			result = append(result, i)
 		}
 	}
-	if len(result) == 0 {
-		return 0
-	}
 	return int32(len(result))
 
 }
