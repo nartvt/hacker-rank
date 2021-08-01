@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b957b247-8bee-4651-960d-93a63ed18dcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dupticate-words/dupticate-words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dupticate-words/src/com/nartvt/DupticateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker-rank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highest-value-palindrome/highest-value-palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highest-value-palindrome/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-anagrams/java-anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-anagrams/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-string-tokens/java-string-tokens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-string-tokens/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/highest-value-palindrome/com/nartvt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-string-tokens/com/nartvt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-syntax-checker/com/nartvt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/reserver/com/nartvt/ReserverString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/valid-username-regex/com/nartvt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/validate-html-tag/com/nartvt/ReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/validate-html-tag/com/nartvt/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-syntax-checker/pattern-syntax-checker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-syntax-checker/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reserver/reserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reserver/src/com/nartvt/ReserverString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-username-regex/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-username-regex/testcase/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-username-regex/testcase/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-username-regex/valid-username-regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/src/com/nartvt/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/src/com/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/testcase/case1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/testcase/case2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/testcase/case3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate-html-tag/validate-html-tag.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vzSghAWFybsEnhNqoHQWmGlQBs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/between-two-sets" />
+      <recent name="$PROJECT_DIR$/breaking-scores" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lock-distribute" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build program.go">
+    <configuration name="go build distrubute-lock.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/distrubute-lock.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/mac-address/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build program.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/between-two-sets/program.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build program.go" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build distrubute-lock.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/between-two-sets/Solution.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
