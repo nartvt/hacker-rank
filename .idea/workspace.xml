@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b957b247-8bee-4651-960d-93a63ed18dcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/the-birthday-bar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-birthday-bar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-birthday-bar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-birthday-bar/Solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-birthday-bar/problem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/between-two-sets/Solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/between-two-sets/Solution.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +26,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vzSghAWFybsEnhNqoHQWmGlQBs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/the-birthday-bar" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/the-birthday-bar" />
       <recent name="$PROJECT_DIR$/between-two-sets" />
       <recent name="$PROJECT_DIR$/breaking-scores" />
     </key>
@@ -46,7 +55,23 @@
       <recent name="$PROJECT_DIR$/lock-distribute" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build program.go">
+  <component name="RunManager" selected="Go Build.go build Solution.go (1)">
+    <configuration name="go build Solution.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/the-birthday-bar/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/between-two-sets/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build distrubute-lock.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="example" />
       <working_directory value="$PROJECT_DIR$" />
@@ -73,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Solution.go (1)" />
+        <item itemvalue="Go Build.go build Solution.go" />
         <item itemvalue="Go Build.go build program.go" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build distrubute-lock.go" />
