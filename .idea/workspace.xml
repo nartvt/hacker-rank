@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b957b247-8bee-4651-960d-93a63ed18dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/the-birthday-bar/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-birthday-bar/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-birthday-bar/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-birthday-bar/Solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-birthday-bar/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-of-the-programmer/Solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divisible-sum-pairs/Solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migratory-birds/Solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +53,36 @@
       <recent name="$PROJECT_DIR$/lock-distribute" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build Solution.go (1)">
+  <component name="RunManager" selected="Go Build.go build Solution.go (4)">
     <configuration name="go build Solution.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="example" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/the-birthday-bar/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Solution.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/divisible-sum-pairs/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Solution.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/migratory-birds/Solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Solution.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day-of-the-programmer/Solution.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -72,37 +94,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build distrubute-lock.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="example" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/distrubute-lock.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="example" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mac-address/main.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build program.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="example" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/between-two-sets/program.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Solution.go (4)" />
+        <item itemvalue="Go Build.go build Solution.go (3)" />
+        <item itemvalue="Go Build.go build Solution.go (2)" />
         <item itemvalue="Go Build.go build Solution.go (1)" />
         <item itemvalue="Go Build.go build Solution.go" />
-        <item itemvalue="Go Build.go build program.go" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build distrubute-lock.go" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +127,11 @@
           <url>file://$PROJECT_DIR$/between-two-sets/Solution.go</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/day-of-the-programmer/Solution.go</url>
+          <line>118</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
