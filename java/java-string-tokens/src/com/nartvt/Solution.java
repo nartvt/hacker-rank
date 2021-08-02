@@ -1,6 +1,6 @@
 package com.nartvt;
-import java.io.*;
-import java.util.*;
+
+import java.util.Scanner;
 
 public class Solution {
 
@@ -8,15 +8,15 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
         String regex = "[,+?!_@ '.]+";
-        s=s.trim();
-        if(s.length() == 0){
+        s = s.trim();
+        if (s.length() == 0) {
             System.out.println(0);
-        }else{
-            String []blanks = s.split(regex);
+        } else {
+            String[] blanks = s.split(regex);
             System.out.println(blanks.length);
-            if(blanks.length > 0){
+            if (blanks.length > 0) {
 
-                for (String blank:blanks){
+                for (String blank : blanks) {
 
                     System.out.println(blank);
                 }

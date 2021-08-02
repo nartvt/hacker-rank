@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/java/diagonal-difference/src" />
+      <root url="file://$PROJECT_DIR$/java/dupticate-words/src" />
+      <root url="file://$PROJECT_DIR$/java/highest-value-palindrome/src" />
+      <root url="file://$PROJECT_DIR$/java/java-anagrams/src" />
+      <root url="file://$PROJECT_DIR$/java/java-bigdecimal/src" />
+      <root url="file://$PROJECT_DIR$/java/java-string-tokens/src" />
+      <root url="file://$PROJECT_DIR$/java/pattern-syntax-checker/src" />
+      <root url="file://$PROJECT_DIR$/java/reserver/src" />
+      <root url="file://$PROJECT_DIR$/java/valid-username-regex/src" />
+      <root url="file://$PROJECT_DIR$/java/validate-html-tag/src" />
+    </SOURCES>
+  </library>
+</component>

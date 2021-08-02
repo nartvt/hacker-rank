@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class nartvt {
+public class Solution {
 
     public static void main(String[] args) {
         int n = 10;

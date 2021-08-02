@@ -140,7 +140,7 @@ public class Solution {
          }
     }
 
-    private static final String folder = System.getProperty("user.dir") + File.separator + "highest-value-palindrome/testcase/";
+    private static final String folder = System.getProperty("user.dir") + File.separator + "java/highest-value-palindrome/testcase/";
 
     private static FileTest readFile(String pathToFile) {
         FileTest fileTest = new FileTest();

@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public class ReadFile {
 
-    private static final String folder = System.getProperty("user.dir") + File.separator + "validate-html-tag/testcase/";
+    private static final String folder = System.getProperty("user.dir") + File.separator + "java/validate-html-tag/testcase/";
 
     public static List<String> listFilesForFolder() {
         List<String> filePaths = new ArrayList<>();

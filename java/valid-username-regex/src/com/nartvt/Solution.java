@@ -26,7 +26,7 @@ public class Solution {
 
     }
 
-    private static final String folder = System.getProperty("user.dir") + File.separator + "valid-username-regex/testcase/";
+    private static final String folder = System.getProperty("user.dir") + File.separator + "java/valid-username-regex/testcase/";
 
     public static List<String> listFilesForFolder() {
         List<String> filePaths = new ArrayList<>();
