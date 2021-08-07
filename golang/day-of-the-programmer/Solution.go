@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sync"
+)
 
 var mapMonths map[int32]int32
 
@@ -132,6 +135,8 @@ func dayOfProgrammer(year int32) string {
 }
 
 func main() {
+	var wg sync.WaitGroup
+	wg.Done()
 	fmt.Println(dayOfProgrammer2(1800))
 	fmt.Println(dayOfProgrammer(1800))
 }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../java/out/production/java-bigdecimal" />
-    <output-test url="file://$MODULE_DIR$/../java/out/test/java-bigdecimal" />
+    <output url="file://$MODULE_DIR$/../java/java/out/production/java-bigdecimal" />
+    <output-test url="file://$MODULE_DIR$/../java/java/out/test/java-bigdecimal" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../java/java-bigdecimal">
-      <sourceFolder url="file://$MODULE_DIR$/../java/java-bigdecimal/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../java/java/java-bigdecimal">
+      <sourceFolder url="file://$MODULE_DIR$/../java/java/java-bigdecimal/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
