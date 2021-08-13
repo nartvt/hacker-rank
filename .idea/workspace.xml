@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e526c5c-e7ca-4784-8ca8-a346dc9badcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/.idea/golang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/pair-color/Solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/big-prime/src/nartvt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/test/src/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang/day-of-the-programmer/Solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang/day-of-the-programmer/Solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hacker-rank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hacker-rank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/diagonal-difference/diagonal-difference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/diagonal-difference/diagonal-difference.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/dupticate-words/dupticate-words.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/dupticate-words/dupticate-words.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/highest-value-palindrome/highest-value-palindrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/highest-value-palindrome/highest-value-palindrome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/highest-value-palindrome/src/com/nartvt/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/highest-value-palindrome/src/com/nartvt/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java-anagrams/java-anagrams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java-anagrams/java-anagrams.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java-bigdecimal/java-bigdecimal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java-bigdecimal/java-bigdecimal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java-bigdecimal/src/nartvt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/java-bigdecimal/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java-string-tokens/java-string-tokens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java-string-tokens/java-string-tokens.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java-string-tokens/src/com/nartvt/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/java-string-tokens/src/com/nartvt/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/pattern-syntax-checker/pattern-syntax-checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/pattern-syntax-checker/pattern-syntax-checker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/reserver/reserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/reserver/reserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/valid-username-regex/src/com/nartvt/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/valid-username-regex/src/com/nartvt/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/valid-username-regex/valid-username-regex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/valid-username-regex/valid-username-regex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/validate-html-tag/src/com/nartvt/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/validate-html-tag/src/com/nartvt/ReadFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/validate-html-tag/validate-html-tag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/validate-html-tag/validate-html-tag.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Go File" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +55,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,7 +66,8 @@
     <property name="configurable..is.expanded" value="false" />
     <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/big-prime" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -73,22 +76,35 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/big-prime" />
       <recent name="$PROJECT_DIR$/golang" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/golang" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/java" />
+      <recent name="$PROJECT_DIR$/golang" />
       <recent name="$PROJECT_DIR$/java-anagrams/src/com/nartvt" />
       <recent name="$PROJECT_DIR$/java-anagrams/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="DupticateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nartvt.DupticateWords" />
-      <module name="dupticate-words" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nartvt.Solution" />
+      <module name="big-prime" />
+      <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/big-prime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nartvt.*" />
+          <option name="PATTERN" value="nartvt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,83 +112,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nartvt.Solution" />
-      <module name="java-string-tokens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nartvt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nartvt.Solution" />
-      <module name="pattern-syntax-checker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nartvt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nartvt.Solution" />
-      <module name="valid-username-regex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nartvt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diagonal.difference.Test" />
-      <module name="diagonal-difference" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="diagonal.difference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="go build Solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hacker-rank" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/golang/pair-color/Solution.go" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.DupticateWords" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Go Build.go build Solution.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.DupticateWords" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Go Build.go build Solution.go" />
       </list>
     </recent_temporary>
   </component>
@@ -187,12 +144,22 @@
       <workItem from="1627628096657" duration="33001000" />
       <workItem from="1627700096212" duration="16131000" />
       <workItem from="1627745571028" duration="668000" />
-      <workItem from="1627875749703" duration="4023000" />
+      <workItem from="1627875749703" duration="6282000" />
+      <workItem from="1628007170455" duration="1088000" />
+      <workItem from="1628008271755" duration="4470000" />
+      <workItem from="1628063915489" duration="743000" />
+      <workItem from="1628065456486" duration="4487000" />
+      <workItem from="1628151539518" duration="1445000" />
+      <workItem from="1628221481434" duration="230000" />
+      <workItem from="1628221795614" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,6 +178,11 @@
           <url>file://$PROJECT_DIR$/java/highest-value-palindrome/src/com/nartvt/Solution.java</url>
           <line>20</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/golang/pair-color/Solution.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

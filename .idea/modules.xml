@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/big-prime/big-prime.iml" filepath="$PROJECT_DIR$/java/big-prime/big-prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/diagonal-difference/diagonal-difference.iml" filepath="$PROJECT_DIR$/java/diagonal-difference/diagonal-difference.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/dupticate-words/dupticate-words.iml" filepath="$PROJECT_DIR$/java/dupticate-words/dupticate-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/hacker-rank.iml" filepath="$PROJECT_DIR$/hacker-rank.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/java/java-string-tokens/java-string-tokens.iml" filepath="$PROJECT_DIR$/java/java-string-tokens/java-string-tokens.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/pattern-syntax-checker/pattern-syntax-checker.iml" filepath="$PROJECT_DIR$/java/pattern-syntax-checker/pattern-syntax-checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/reserver/reserver.iml" filepath="$PROJECT_DIR$/java/reserver/reserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/test/test.iml" filepath="$PROJECT_DIR$/java/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/valid-username-regex/valid-username-regex.iml" filepath="$PROJECT_DIR$/java/valid-username-regex/valid-username-regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/validate-html-tag/validate-html-tag.iml" filepath="$PROJECT_DIR$/java/validate-html-tag/validate-html-tag.iml" />
     </modules>
